@@ -13,3 +13,4 @@ Window::Window(QWidget *parent)
 
     connect(m_button, SIGNAL (clicked()), QApplication::instance(), SLOT (quit()));
 }
+seco
